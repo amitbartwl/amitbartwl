@@ -2,7 +2,7 @@
 <h2> Hi 👋, I'm Amit Bartwal</h2>
 <h3>A enthusiastic frontend developer from India</h3>
 <br>
-
+![Image Alt]("https://github.com/amitbartwl/new-gif/blob/981b676b953dbc33fb989e2fb85e9a692fcf7835/Blue%20Animated%20Developer%20Conference%20Video.gif")
 <p>🔭 I'm focussing on being a more unified individual.</p>
 
 <p>👯 I'm seeking to collaborate on frontend development.</p>
