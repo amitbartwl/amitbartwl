@@ -7,7 +7,7 @@
 
 <p>👯 I'm seeking to collaborate on frontend development.</p>
 
-<p>🌱 I am presently learning: DBMS in MySQL </p>
+<p>🌱 I am presently learning: MERN STACK </p>
 
 
 
